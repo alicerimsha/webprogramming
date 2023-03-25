@@ -184,7 +184,7 @@ function increaseEnthusiasm($a)
 {
     return $a .= "!";
 }
-$b = "Hello world";
+$b = "Men are trash";
 echo increaseEnthusiasm($b);
 
 function repeatThreeTimes($a)
